@@ -1,9 +1,13 @@
-<h1 align = "center"> Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1> 
-
+<h2 align = "center"> Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h2> 
 
 ![3](https://user-images.githubusercontent.com/90654984/166862971-05d58484-9d00-4b7b-a6c1-25524d937865.png)
  
 <h4 align ="center">  :heart: Programming | 🎵 Hip Hop - Beats  | 💪: Workout </h4> 
+
+
+<p align ="center">
+ Actualmente soy estudante de la carrera de Ingenieria en Sistemas , por lo que en este repositorio te podras encontrar mi portafolio profesional y varia de los proyecto en los cuales me encuentro trabajo.
+</p>
 
 ###  About Me 😄
 
@@ -12,7 +16,7 @@
 - 🤗Open for project collaboration and internship opportunities.
 - 👨‍🎓Studying Systems Engineering.
 
-I´m based in San José, Costa Rica 🇨🇷: 
+
 
 ### Technologies 🖥️:
 
