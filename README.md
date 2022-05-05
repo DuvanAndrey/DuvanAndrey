@@ -26,9 +26,9 @@ I´m based in San José, Costa Rica 🇨🇷:
 
 ###  You can find me? 
 
-<a href="https://twitter.com/dvlCode"><img src="https://user-images.githubusercontent.com/90654984/166874995-3fead14d-dd3f-4b51-a224-439e4a680fda.png" alt="html" style="vertical-align:top; margin:4px"></a>
-- [Instagram] (https://www.instagram.com/dvl.code/)
-- [Facebook] (https://www.facebook.com/duvan.vasquez.773) 
+<a href="https://twitter.com/dvlCode"><img src="https://user-images.githubusercontent.com/90654984/166876531-ed6bdd20-9d98-40de-ba45-a61db655f1da.png" alt="html" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/dvl.code/"><img src="https://user-images.githubusercontent.com/90654984/166877306-d4d8baf0-547c-4552-a6e7-74e17c80ca29.png" alt="html" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/duvan.vasquez.773"><img src="https://user-images.githubusercontent.com/90654984/166877156-3f508cf0-2d96-4a5b-a70b-8f58fff3a5a2.png" alt="html" style="vertical-align:top; margin:4px"></a>
 
 
 ### Contact me
