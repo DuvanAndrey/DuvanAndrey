@@ -30,7 +30,7 @@
 
 ###  You can find me? 🔍
 <a href="https://twitter.com/dvlCode"><img src="https://user-images.githubusercontent.com/90654984/166987092-01097ec4-e16f-483b-ac85-e7cb6d6ec9ae.png" alt="html" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/dvl.code/"><img src="https://user-images.githubusercontent.com/90654984/166877306-d4d8baf0-547c-4552-a6e7-74e17c80ca29.png" alt="html" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/duvan.vasquez.773"><img src="https://user-images.githubusercontent.com/90654984/166877156-3f508cf0-2d96-4a5b-a70b-8f58fff3a5a2.png" alt="html" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.instagram.com/dvl.code/"><img src="https://user-images.githubusercontent.com/90654984/166987792-3878f1c8-da41-4f95-b28c-55355495c822.png" alt="html" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/duvan.vasquez.773"><img src="https://user-images.githubusercontent.com/90654984/166987669-fa037018-7e75-4735-8bc1-1bc97188c6dd.png" alt="html" style="vertical-align:top; margin:4px"></a>
 
 
