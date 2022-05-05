@@ -1,6 +1,4 @@
-### Hi Developers!   
-
-My name is Duván Vásquez 👋
+### Hi I´m Duván Vásquez 👋
 
 Engenieer System Student 
 
@@ -10,7 +8,7 @@ Welcome to my Github profile! 🤓
 I hope you can find interting info on programing and desing web in this accout!  🐱‍🏍
 
 
-### Where to find me? 
+###  You can find me? 
 
 - [Twitter] (https://twitter.com/dvlCode)
 - [Instagram] (https://www.instagram.com/dvl.code/)
