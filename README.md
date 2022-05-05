@@ -1,12 +1,10 @@
-### Hi I´m Duván Vásquez 👋
+### Hello World! 
 
-Engenieer System Student 
+I´m Duván |  Engenieer System Student 
 
 
-Welcome to my Github profile! 🤓
 
 I hope you can find interting info on programing and desing web in this accout!  🐱‍🏍
-
 
 ###  You can find me? 
 
