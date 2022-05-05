@@ -5,7 +5,7 @@ My name is Duván Vásquez 👋
 Engenieer System Student 
 
 
-Welcome to my Git Hub profile! 🤓
+Welcome to my Github profile! 🤓
 
 I hope you can find interting info on programing and desing web in this accout!  🐱‍🏍
 
