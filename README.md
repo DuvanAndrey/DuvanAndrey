@@ -1,10 +1,14 @@
-### Hello World! 
+### Hello World! , I´m Duván Vásquez 
 
-I´m Duván |  Engenieer System Student 
+
+ Engenieer System Student 
 
 
 
 I hope you can find interting info on programing and desing web in this accout!  🐱‍🏍
+
+
+### Technologies 
 
 ###  You can find me? 
 
