@@ -6,7 +6,7 @@
 
 
 <p align ="center">
- Actualmente soy estudante de la carrera de Ingenieria en Sistemas , por lo que en este repositorio te podras encontrar mi portafolio profesional y varia de los proyecto en los cuales me encuentro trabajo.
+ I am currently a student of the Systems Engineering career, so in this repository you can find my professional portfolio and various projects in which I find myself working.
 </p>
 
 ###  About Me 😄
