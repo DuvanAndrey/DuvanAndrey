@@ -3,7 +3,7 @@
  
 <h4 align ="center">  :heart: Programming | 🎵 Hip Hop - Beats  | 💪: Workout </h4> 
 
-<h3 align = "left"> I´m  Duván Vásquez | dvlCode </h3> 
+<h3 align = "left"> I´m  Duván Vásquez </h3> 
 
 
 <p align ="center">
@@ -39,5 +39,5 @@
  
  
  <p align="center">
- 😺😸🍉
+ dvlCode😺😸🍉
 </p>
