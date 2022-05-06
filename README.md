@@ -1,8 +1,5 @@
 <h2 align = "center"> Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h2> 
 
- 
-<h4 align ="center">  :heart: Programming | 🎵 Hip Hop - Beats  | 💪: Workout </h4> 
-
 <h3 align = "left"> I´m  Duván Vásquez </h3> 
 
 
@@ -11,6 +8,8 @@
 </p>
 
 ###  About Me 😄
+
+<h4 align ="left">  :heart: Programming | 🎵 Hip Hop - Beats  | 💪: Workout </h4> 
 
 - 🤓 I like so much study and learn new things. 
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
@@ -29,7 +28,7 @@
  <img src="https://user-images.githubusercontent.com/90654984/167203270-e78fe52a-2f10-4dff-8c04-eb1f780a9dee.png" alt="vs" style="vertical-align:top; margin:4px">
 </p>
 
-CLli
+
 
 ###  You can find me? 🔍
 <a href="https://twitter.com/dvlCode"><img src="https://user-images.githubusercontent.com/90654984/166987092-01097ec4-e16f-483b-ac85-e7cb6d6ec9ae.png" alt="html" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
