@@ -1,4 +1,4 @@
-<h2 align = "center"> Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px"></h2> 
+<h2 align = "center"> Hello World!
 
 <h3 align = "left"> I´m  Duván Vásquez </h3> 
 
